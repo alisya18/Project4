@@ -1,0 +1,297 @@
+"Tugas 1" 
+ 
+
+Host Name:                 DESKTOP-11GPFKD
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Alisya
+Registered Organization:   
+Product ID:                00330-80000-00000-AA701
+Original Install Date:     11/27/2025, 5:37:59 PM
+System Boot Time:          11/29/2025, 11:07:09 AM
+System Manufacturer:       innotek GmbH
+System Model:              VirtualBox
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~2208 Mhz
+BIOS Version:              innotek GmbH VirtualBox, 12/1/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     2,048 MB
+Available Physical Memory: 771 MB
+Virtual Memory: Max Size:  3,200 MB
+Virtual Memory: Available: 1,466 MB
+Virtual Memory: In Use:    1,734 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-11GPFKD
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB5031988
+                           [02]: KB5015684
+                           [03]: KB5033372
+                           [04]: KB5014032
+                           [05]: KB5032907
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) PRO/1000 MT Desktop Adapter
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.0.2.2
+                                 IP address(es)
+                                 [01]: 10.0.2.15
+                                 [02]: fe80::a4ee:7deb:299e:9687
+                                 [03]: fd00::29c1:f254:86d5:1db
+                                 [04]: fd00::8137:f17a:89f5:b9bc
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+ 
+"Tugas 2" 
+The type of the file system is NTFS.
+
+WARNING!  /F parameter not specified.
+Running CHKDSK in read-only mode.
+
+Stage 1: Examining basic file system structure ...
+Progress: 0 of 124416 done; Stage:  0%; Total:  0%; ETA:   0:06:00    Progress: 6657 of 124416 done; Stage:  5%; Total:  1%; ETA:   0:05:55 .  Progress: 16592 of 124416 done; Stage: 13%; Total:  4%; ETA:   0:05:45 .. Progress: 27770 of 124416 done; Stage: 22%; Total:  7%; ETA:   0:00:17 ...Progress: 37889 of 124416 done; Stage: 30%; Total: 10%; ETA:   0:00:16    Progress: 47325 of 124416 done; Stage: 38%; Total: 13%; ETA:   0:00:15 .  Progress: 55553 of 124416 done; Stage: 44%; Total: 15%; ETA:   0:00:15 .. Progress: 63745 of 124416 done; Stage: 51%; Total: 18%; ETA:   0:00:15 ...Progress: 72474 of 124416 done; Stage: 58%; Total: 20%; ETA:   0:00:15    Progress: 83157 of 124416 done; Stage: 66%; Total: 23%; ETA:   0:00:14 .  Progress: 90803 of 124416 done; Stage: 72%; Total: 25%; ETA:   0:00:14 .. Progress: 98869 of 124416 done; Stage: 79%; Total: 28%; ETA:   0:00:14 ...Progress: 107855 of 124416 done; Stage: 86%; Total: 30%; ETA:   0:00:14    Progress: 111855 of 124416 done; Stage: 89%; Total: 31%; ETA:   0:00:14 .  Progress: 121920 of 124416 done; Stage: 97%; Total: 34%; ETA:   0:00:14 .. Progress: 124416 of 124416 done; Stage: 100%; Total: 34%; ETA:   0:00:14 ...                                                                                                                                                                                124416 file records processed.                                                        
+File verification completed.
+ Phase duration (File record verification): 6.87 seconds.
+Progress: 2337 of 2337 done; Stage: 100%; Total: 22%; ETA:   0:00:24                                                                                                                                                                                    2337 large file records processed.                                   
+ Phase duration (Orphan file record recovery): 0.00 milliseconds.
+Progress: 0 of 0 done; Stage: 99%; Total: 22%; ETA:   0:00:24 .                                                                                                                                                                                  0 bad file records processed.                                     
+ Phase duration (Bad file record checking): 0.06 milliseconds.
+
+Stage 2: Examining file name linkage ...
+Progress: 22239 of 190512 done; Stage: 11%; Total: 26%; ETA:   0:00:22 .. Progress: 47608 of 190512 done; Stage: 24%; Total: 30%; ETA:   0:00:19 ...Progress: 73219 of 190512 done; Stage: 38%; Total: 34%; ETA:   0:00:15    Progress: 94058 of 190512 done; Stage: 49%; Total: 38%; ETA:   0:00:14 .  Progress: 120075 of 190512 done; Stage: 63%; Total: 43%; ETA:   0:00:12 .. Progress: 95 of 95 done; Stage: 100%; Total: 43%; ETA:   0:00:12 ...                                                                                                                                                                                95 reparse records processed.                                      
+Progress: 124804 of 190512 done; Stage: 65%; Total: 44%; ETA:   0:00:12    Progress: 125039 of 190512 done; Stage: 65%; Total: 44%; ETA:   0:00:12 .  Progress: 125500 of 190512 done; Stage: 65%; Total: 45%; ETA:   0:00:12 .. Progress: 126114 of 190512 done; Stage: 66%; Total: 46%; ETA:   0:00:12 ...Progress: 127570 of 190512 done; Stage: 66%; Total: 47%; ETA:   0:00:12    Progress: 127711 of 190512 done; Stage: 67%; Total: 49%; ETA:   0:00:12 .  Progress: 128834 of 190512 done; Stage: 67%; Total: 50%; ETA:   0:00:12 .. Progress: 129656 of 190512 done; Stage: 68%; Total: 57%; ETA:   0:00:12 ...Progress: 130429 of 190512 done; Stage: 68%; Total: 57%; ETA:   0:00:11    Progress: 131277 of 190512 done; Stage: 68%; Total: 57%; ETA:   0:00:11 .  Progress: 131855 of 190512 done; Stage: 69%; Total: 58%; ETA:   0:00:11 .. Progress: 132717 of 190512 done; Stage: 69%; Total: 58%; ETA:   0:00:11 ...Progress: 133590 of 190512 done; Stage: 70%; Total: 59%; ETA:   0:00:11    Progress: 134424 of 190512 done; Stage: 70%; Total: 59%; ETA:   0:00:11 .  Progress: 135198 of 190512 done; Stage: 70%; Total: 59%; ETA:   0:00:11 .. Progress: 136228 of 190512 done; Stage: 71%; Total: 60%; ETA:   0:00:11 ...Progress: 137271 of 190512 done; Stage: 72%; Total: 60%; ETA:   0:00:11    Progress: 138046 of 190512 done; Stage: 72%; Total: 61%; ETA:   0:00:11 .  Progress: 138811 of 190512 done; Stage: 72%; Total: 61%; ETA:   0:00:11 .. Progress: 139454 of 190512 done; Stage: 73%; Total: 62%; ETA:   0:00:11 ...Progress: 140221 of 190512 done; Stage: 73%; Total: 62%; ETA:   0:00:11    Progress: 140497 of 190512 done; Stage: 73%; Total: 62%; ETA:   0:00:11 .  Progress: 140812 of 190512 done; Stage: 73%; Total: 63%; ETA:   0:00:11 .. Progress: 141404 of 190512 done; Stage: 74%; Total: 63%; ETA:   0:00:11 ...Progress: 142229 of 190512 done; Stage: 74%; Total: 64%; ETA:   0:00:11    Progress: 142910 of 190512 done; Stage: 75%; Total: 64%; ETA:   0:00:11 .  Progress: 144012 of 190512 done; Stage: 75%; Total: 65%; ETA:   0:00:11 .. Progress: 145407 of 190512 done; Stage: 76%; Total: 65%; ETA:   0:00:11 ...Progress: 145747 of 190512 done; Stage: 76%; Total: 67%; ETA:   0:00:11    Progress: 145749 of 190512 done; Stage: 76%; Total: 74%; ETA:   0:00:11 .  Progress: 145890 of 190512 done; Stage: 76%; Total: 74%; ETA:   0:00:09 .. Progress: 146372 of 190512 done; Stage: 76%; Total: 74%; ETA:   0:00:09 ...Progress: 147041 of 190512 done; Stage: 77%; Total: 75%; ETA:   0:00:09    Progress: 147485 of 190512 done; Stage: 77%; Total: 75%; ETA:   0:00:09 .  Progress: 147955 of 190512 done; Stage: 77%; Total: 75%; ETA:   0:00:09 .. Progress: 148929 of 190512 done; Stage: 78%; Total: 75%; ETA:   0:00:09 ...Progress: 149553 of 190512 done; Stage: 78%; Total: 76%; ETA:   0:00:09    Progress: 150192 of 190512 done; Stage: 78%; Total: 76%; ETA:   0:00:09 .  Progress: 150658 of 190512 done; Stage: 79%; Total: 76%; ETA:   0:00:09 .. Progress: 151250 of 190512 done; Stage: 79%; Total: 76%; ETA:   0:00:09 ...Progress: 151885 of 190512 done; Stage: 79%; Total: 77%; ETA:   0:00:09    Progress: 152443 of 190512 done; Stage: 80%; Total: 77%; ETA:   0:00:09 .  Progress: 153246 of 190512 done; Stage: 80%; Total: 77%; ETA:   0:00:09 .. Progress: 153595 of 190512 done; Stage: 80%; Total: 78%; ETA:   0:00:09 ...Progress: 154038 of 190512 done; Stage: 80%; Total: 78%; ETA:   0:00:09    Progress: 154624 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09 .  Progress: 154862 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09 .. Progress: 155284 of 190512 done; Stage: 81%; Total: 79%; ETA:   0:00:09 ...Progress: 155625 of 190512 done; Stage: 81%; Total: 79%; ETA:   0:00:09    Progress: 155689 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09 .  Progress: 155716 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09 .. Progress: 155816 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09 ...Progress: 155995 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09    Progress: 156172 of 190512 done; Stage: 81%; Total: 78%; ETA:   0:00:09 .  Progress: 156289 of 190512 done; Stage: 82%; Total: 79%; ETA:   0:00:09 .. Progress: 156445 of 190512 done; Stage: 82%; Total: 79%; ETA:   0:00:09 ...Progress: 156640 of 190512 done; Stage: 82%; Total: 79%; ETA:   0:00:09    Progress: 157027 of 190512 done; Stage: 82%; Total: 79%; ETA:   0:00:09 .  Progress: 157424 of 190512 done; Stage: 82%; Total: 80%; ETA:   0:00:09 .. Progress: 190512 of 190512 done; Stage: 100%; Total: 78%; ETA:   0:00:09 ...                                                                                                                                                                                190512 index entries processed.                                                       
+Index verification completed.
+ Phase duration (Index verification): 32.17 seconds.
+Progress: 1 of 0 done; Stage: 99%; Total: 78%; ETA:   0:00:09    Progress: 0 of 0 done; Stage: 99%; Total: 78%; ETA:   0:00:09 .                                                                                                                                                                                  0 unindexed files scanned.                                        
+ Phase duration (Orphan reconnection): 443.18 milliseconds.
+Progress: 0 of 0 done; Stage: 99%; Total: 78%; ETA:   0:00:09 ..                                                                                                                                                                                 0 unindexed files recovered to lost and found.                    
+ Phase duration (Orphan recovery to lost and found): 0.07 milliseconds.
+Progress: 95 of 95 done; Stage: 100%; Total: 78%; ETA:   0:00:09 ...                                                                                                                                                                                95 reparse records processed.                                      
+ Phase duration (Reparse point and Object ID verification): 3.07 milliseconds.
+
+Stage 3: Examining security descriptors ...
+Security descriptor verification completed.
+ Phase duration (Security descriptor verification): 184.60 milliseconds.
+Progress: 4 of 4 done; Stage: 100%; Total: 99%; ETA:   0:00:00                                                                                                                                                                                    33049 data files processed.                                           
+ Phase duration (Data attribute verification): 0.16 milliseconds.
+CHKDSK is verifying Usn Journal...
+Progress: 0 of 4869 done; Stage:  0%; Total: 99%; ETA:   0:00:00 .  Progress: 528 of 4869 done; Stage: 10%; Total: 99%; ETA:   0:00:00 .. Progress: 1537 of 4869 done; Stage: 31%; Total: 99%; ETA:   0:00:00 ...Progress: 2224 of 4869 done; Stage: 45%; Total: 92%; ETA:   0:00:03    Progress: 3206 of 4869 done; Stage: 65%; Total: 93%; ETA:   0:00:03 .  Progress: 4219 of 4869 done; Stage: 86%; Total: 94%; ETA:   0:00:03 .. Progress: 4869 of 4869 done; Stage: 100%; Total: 95%; ETA:   0:00:03 ...                                                                                                                                                                                39894040 USN bytes processed.                                                           
+Usn Journal verification completed.
+ Phase duration (USN journal verification): 2.68 seconds.
+
+Windows has scanned the file system and found no problems.
+No further action is required.
+
+  25039054 KB total disk space.
+  13409352 KB in 88901 files.
+     70704 KB in 33050 indexes.
+         0 KB in bad sectors.
+    202114 KB in use by the system.
+     35584 KB occupied by the log file.
+  11356884 KB available on disk.
+
+      4096 bytes in each allocation unit.
+   6259763 total allocation units on disk.
+   2839221 allocation units available on disk.
+Total duration: 42.36 seconds (42368 ms).
+ 
+"Tugas 3" 
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        148 K
+Registry                        72 Services                   0     27,684 K
+smss.exe                       312 Services                   0        960 K
+csrss.exe                      420 Services                   0      4,820 K
+wininit.exe                    488 Services                   0      6,260 K
+csrss.exe                      496 Console                    1      4,544 K
+services.exe                   552 Services                   0      7,592 K
+lsass.exe                      580 Services                   0     16,212 K
+winlogon.exe                   588 Console                    1      9,340 K
+fontdrvhost.exe                668 Services                   0      2,364 K
+svchost.exe                    724 Services                   0     29,136 K
+fontdrvhost.exe                748 Console                    1     15,812 K
+svchost.exe                    800 Services                   0     13,444 K
+dwm.exe                        896 Console                    1     76,008 K
+svchost.exe                    984 Services                   0     21,280 K
+svchost.exe                    992 Services                   0     60,080 K
+svchost.exe                   1008 Services                   0     21,188 K
+svchost.exe                    372 Services                   0     45,552 K
+svchost.exe                    356 Services                   0     21,640 K
+svchost.exe                   1196 Services                   0     17,648 K
+svchost.exe                   1248 Services                   0     10,232 K
+Memory Compression            1380 Services                   0     23,692 K
+svchost.exe                   1608 Services                   0     12,532 K
+svchost.exe                   1668 Services                   0     16,204 K
+svchost.exe                   1692 Services                   0      6,040 K
+svchost.exe                   1700 Services                   0      8,224 K
+spoolsv.exe                   1804 Services                   0     13,548 K
+svchost.exe                   1976 Services                   0     12,268 K
+svchost.exe                   1984 Services                   0      7,372 K
+svchost.exe                   2064 Services                   0     23,872 K
+svchost.exe                   2248 Services                   0     10,040 K
+SearchIndexer.exe             2392 Services                   0     23,812 K
+svchost.exe                   2480 Services                   0     15,392 K
+sihost.exe                     872 Console                    1     26,168 K
+svchost.exe                    652 Console                    1     31,116 K
+taskhostw.exe                 3088 Console                    1     17,024 K
+ctfmon.exe                    3244 Console                    1     20,096 K
+explorer.exe                  3444 Console                    1    131,780 K
+svchost.exe                   3624 Console                    1     19,124 K
+StartMenuExperienceHost.e     3876 Console                    1     33,248 K
+RuntimeBroker.exe             4028 Console                    1     12,928 K
+svchost.exe                   2436 Services                   0      7,024 K
+SkypeBackgroundHost.exe       4484 Console                    1     11,616 K
+SkypeApp.exe                  4532 Console                    1     21,172 K
+SecurityHealthSystray.exe     4688 Console                    1      8,468 K
+SecurityHealthService.exe     4756 Services                   0     10,308 K
+RuntimeBroker.exe             4852 Console                    1      7,344 K
+OneDrive.exe                  4860 Console                    1     23,640 K
+svchost.exe                   5080 Services                   0      6,920 K
+SgrmBroker.exe                5112 Services                   0      6,384 K
+svchost.exe                   4420 Services                   0      9,412 K
+TextInputHost.exe             4324 Console                    1     26,020 K
+dllhost.exe                   4884 Console                    1     12,012 K
+SearchApp.exe                 5644 Console                    1     55,536 K
+RuntimeBroker.exe             3360 Console                    1     33,348 K
+msedgewebview2.exe            4176 Console                    1     81,860 K
+msedgewebview2.exe            5128 Console                    1      5,804 K
+msedgewebview2.exe            5352 Console                    1     37,728 K
+msedgewebview2.exe            1600 Console                    1     30,384 K
+msedgewebview2.exe            5248 Console                    1     71,516 K
+msedgewebview2.exe            1088 Console                    1     16,260 K
+svchost.exe                   7024 Services                   0     10,468 K
+SearchApp.exe                 1912 Console                    1     94,360 K
+ShellExperienceHost.exe        860 Console                    1     52,468 K
+RuntimeBroker.exe             6372 Console                    1     22,688 K
+msedge.exe                    3980 Console                    1     90,564 K
+msedge.exe                    2860 Console                    1      7,012 K
+msedge.exe                    4112 Console                    1     29,864 K
+msedge.exe                    6996 Console                    1     22,228 K
+msedge.exe                    7036 Console                    1     16,608 K
+WinStore.App.exe              4168 Console                    1      1,472 K
+ApplicationFrameHost.exe      5812 Console                    1     25,000 K
+RuntimeBroker.exe             6084 Console                    1      6,868 K
+MsMpEng.exe                   4776 Services                   0    113,976 K
+MpDefenderCoreService.exe     1892 Services                   0     17,712 K
+dllhost.exe                   6392 Services                   0     10,876 K
+NisSrv.exe                    6168 Services                   0      9,408 K
+svchost.exe                   3984 Console                    1     11,436 K
+smartscreen.exe               1868 Console                    1     20,252 K
+notepad.exe                   6924 Console                    1     17,704 K
+RuntimeBroker.exe             5436 Console                    1     14,172 K
+svchost.exe                    660 Services                   0      9,276 K
+audiodg.exe                   2608 Services                   0     11,980 K
+cmd.exe                       5648 Console                    1      4,536 K
+conhost.exe                   6476 Console                    1     22,920 K
+TrustedInstaller.exe          3580 Services                   0      7,660 K
+TiWorker.exe                  1688 Services                   0     10,868 K
+VSSVC.exe                     4124 Services                   0      9,952 K
+tasklist.exe                   504 Console                    1      9,216 K
+WmiPrvSE.exe                  4252 Services                   0      9,436 K
+ 
+"Tugas 4" 
+
+Image Name                     PID Session Name        Session#    Mem Usage Status          User Name                                              CPU Time Window Title                                                            
+========================= ======== ================ =========== ============ =============== ================================================== ============ ========================================================================
+System Idle Process              0 Services                   0          8 K Unknown         NT AUTHORITY\SYSTEM                                     1:01:18 N/A                                                                     
+System                           4 Services                   0        148 K Unknown         N/A                                                     0:08:11 N/A                                                                     
+Registry                        72 Services                   0     27,688 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:06 N/A                                                                     
+smss.exe                       312 Services                   0        960 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+csrss.exe                      420 Services                   0      4,816 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:01 N/A                                                                     
+wininit.exe                    488 Services                   0      6,260 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+csrss.exe                      496 Console                    1      4,556 K Running         NT AUTHORITY\SYSTEM                                     0:01:26 N/A                                                                     
+services.exe                   552 Services                   0      7,828 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:17 N/A                                                                     
+lsass.exe                      580 Services                   0     16,328 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:02 N/A                                                                     
+winlogon.exe                   588 Console                    1      9,352 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+fontdrvhost.exe                668 Services                   0      2,380 K Unknown         Font Driver Host\UMFD-0                                 0:00:00 N/A                                                                     
+svchost.exe                    724 Services                   0     29,480 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:12 N/A                                                                     
+fontdrvhost.exe                748 Console                    1     15,820 K Unknown         Font Driver Host\UMFD-1                                 0:00:15 N/A                                                                     
+svchost.exe                    800 Services                   0     13,548 K Unknown         NT AUTHORITY\NETWORK SERVICE                            0:00:26 N/A                                                                     
+dwm.exe                        896 Console                    1     76,244 K Running         Window Manager\DWM-1                                    0:00:14 DWM Notification Window                                                 
+svchost.exe                    984 Services                   0     25,388 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:06 N/A                                                                     
+svchost.exe                    992 Services                   0     62,132 K Unknown         NT AUTHORITY\SYSTEM                                     0:01:53 N/A                                                                     
+svchost.exe                   1008 Services                   0     22,440 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:07 N/A                                                                     
+svchost.exe                    372 Services                   0     49,444 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:53 N/A                                                                     
+svchost.exe                    356 Services                   0     21,932 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:04 N/A                                                                     
+svchost.exe                   1196 Services                   0     17,820 K Unknown         NT AUTHORITY\NETWORK SERVICE                            0:00:07 N/A                                                                     
+svchost.exe                   1248 Services                   0     10,244 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+Memory Compression            1380 Services                   0     37,488 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:29 N/A                                                                     
+svchost.exe                   1608 Services                   0     12,572 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+svchost.exe                   1668 Services                   0     16,492 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:10 N/A                                                                     
+svchost.exe                   1692 Services                   0      6,084 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+svchost.exe                   1700 Services                   0      8,428 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+spoolsv.exe                   1804 Services                   0     13,596 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:03 N/A                                                                     
+svchost.exe                   1976 Services                   0     13,016 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:04 N/A                                                                     
+svchost.exe                   1984 Services                   0      7,388 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+svchost.exe                   2064 Services                   0     28,380 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:09 N/A                                                                     
+svchost.exe                   2248 Services                   0     10,168 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+SearchIndexer.exe             2392 Services                   0     24,624 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:05 N/A                                                                     
+svchost.exe                   2480 Services                   0     15,452 K Unknown         NT AUTHORITY\NETWORK SERVICE                            0:00:08 N/A                                                                     
+sihost.exe                     872 Console                    1     25,392 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:05 N/A                                                                     
+svchost.exe                    652 Console                    1     31,480 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:05 Windows Push Notifications Platform                                     
+taskhostw.exe                 3088 Console                    1     17,052 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:04 Task Host Window                                                        
+ctfmon.exe                    3244 Console                    1     20,128 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:03 N/A                                                                     
+explorer.exe                  3444 Console                    1    132,920 K Running         DESKTOP-11GPFKD\Alisya                                  0:01:38 N/A                                                                     
+svchost.exe                   3624 Console                    1     19,184 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:01 N/A                                                                     
+StartMenuExperienceHost.e     3876 Console                    1     33,340 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:04 Start                                                                   
+RuntimeBroker.exe             4028 Console                    1     12,972 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:02 N/A                                                                     
+svchost.exe                   2436 Services                   0      7,024 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+SkypeBackgroundHost.exe       4484 Console                    1     11,616 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+SkypeApp.exe                  4532 Console                    1     21,172 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:02 N/A                                                                     
+SecurityHealthSystray.exe     4688 Console                    1      9,052 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+SecurityHealthService.exe     4756 Services                   0     11,860 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:01 N/A                                                                     
+RuntimeBroker.exe             4852 Console                    1      7,612 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+OneDrive.exe                  4860 Console                    1     23,676 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:07 N/A                                                                     
+svchost.exe                   5080 Services                   0      6,956 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+SgrmBroker.exe                5112 Services                   0      6,676 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+svchost.exe                   4420 Services                   0      9,904 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+TextInputHost.exe             4324 Console                    1     26,208 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:02 Microsoft Text Input Application                                        
+dllhost.exe                   4884 Console                    1     11,976 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:01 OleMainThreadWndName                                                    
+SearchApp.exe                 5644 Console                    1     64,380 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:07 News and interests                                                      
+RuntimeBroker.exe             3360 Console                    1     38,676 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:05 N/A                                                                     
+msedgewebview2.exe            4176 Console                    1    113,404 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:18 N/A                                                                     
+msedgewebview2.exe            5128 Console                    1      7,272 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+msedgewebview2.exe            5352 Console                    1     47,108 K Running         DESKTOP-11GPFKD\Alisya                                  0:02:27 N/A                                                                     
+msedgewebview2.exe            1600 Console                    1     38,300 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:27 OleMainThreadWndName                                                    
+msedgewebview2.exe            5248 Console                    1    185,716 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:01:38 N/A                                                                     
+msedgewebview2.exe            1088 Console                    1     19,660 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:01 N/A                                                                     
+svchost.exe                   7024 Services                   0     10,684 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+SearchApp.exe                 1912 Console                    1     98,164 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:18 Search                                                                  
+ShellExperienceHost.exe        860 Console                    1     52,460 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:02 New notification                                                        
+RuntimeBroker.exe             6372 Console                    1     22,720 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 OLEChannelWnd                                                           
+WinStore.App.exe              4168 Console                    1      1,472 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:02 Microsoft Store                                                         
+ApplicationFrameHost.exe      5812 Console                    1     25,060 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 Microsoft Store                                                         
+RuntimeBroker.exe             6084 Console                    1      7,168 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+MsMpEng.exe                   4776 Services                   0    125,152 K Unknown         NT AUTHORITY\SYSTEM                                     0:01:14 N/A                                                                     
+MpDefenderCoreService.exe     1892 Services                   0     17,168 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:03 N/A                                                                     
+dllhost.exe                   6392 Services                   0     10,892 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+NisSrv.exe                    6168 Services                   0      9,408 K Unknown         NT AUTHORITY\LOCAL SERVICE                              0:00:00 N/A                                                                     
+svchost.exe                   3984 Console                    1     11,436 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+notepad.exe                   6924 Console                    1     17,704 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 chkdsk - Notepad                                                        
+RuntimeBroker.exe             5436 Console                    1     14,152 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:01 N/A                                                                     
+svchost.exe                    660 Services                   0      9,228 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+cmd.exe                       5648 Console                    1      4,724 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 Administrator: Command Prompt - tasklist  /V                            
+conhost.exe                   6476 Console                    1     23,028 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+msedge.exe                    4828 Console                    1    121,108 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:07 N/A                                                                     
+svchost.exe                   6160 Services                   0      7,856 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+msedge.exe                    6568 Console                    1      8,116 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+msedge.exe                    2964 Console                    1     32,428 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:01 OleMainThreadWndName                                                    
+msedge.exe                    3492 Console                    1     25,040 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+msedge.exe                    5340 Console                    1     18,280 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+SearchProtocolHost.exe        5292 Console                    1      8,368 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+backgroundTaskHost.exe        1820 Console                    1     24,716 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:01 N/A                                                                     
+SearchFilterHost.exe          1920 Services                   0      7,548 K Unknown         NT AUTHORITY\SYSTEM                                     0:00:00 N/A                                                                     
+smartscreen.exe               4612 Console                    1      8,904 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+LocationNotificationWindo     5524 Console                    1      7,184 K Running         DESKTOP-11GPFKD\Alisya                                  0:00:00 Location Notification                                                   
+tasklist.exe                   280 Console                    1      9,724 K Unknown         DESKTOP-11GPFKD\Alisya                                  0:00:00 N/A                                                                     
+WmiPrvSE.exe                   220 Services                   0      9,492 K Unknown         NT AUTHORITY\NETWORK SERVICE                            0:00:00 N/A                                                                     
